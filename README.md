@@ -12,3 +12,4 @@ Components for lighting obects:
 3) LED strip or garland based on WS2812b
 4) push-buttons (1-2)
 5) optionally BME280
+6) TFT touch screen (I used 2.8' based on ILI9341)
